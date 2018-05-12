@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43517'
     url: http://www.gutenberg.org/2009/agents/43517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45900#Record-of-Medals-of-Honor-issued-to-the-officers-and-enlisted-men-of-the-United-States-Navy-M_
 gutenberg_issued: '2014-06-06'
 gutenberg_type: Text
 identifiers:
