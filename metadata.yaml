@@ -1,0 +1,27 @@
+_repo: Record-of-Medals-of-Honor-issued-to-the-officers-and-enlisted-men-of-the-United-States-Navy-M__45900
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45900-h/images/cover.jpg
+creator:
+  author:
+    agent_name: United States. Bureau of Naval Personnel
+    alias: United States. Navy Department. Bureau of Naval Personnel
+    gutenberg_agent_id: '43517'
+    url: http://www.gutenberg.org/2009/agents/43517
+description: ''
+gutenberg_issued: '2014-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45900'
+  lccn: '24027317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'VB'
+- !lcsh 'United States. Navy -- Medals, badges, decorations, etc.'
+title: Record of Medals of Honor issued to the officers and enlisted men of the United
+  States Navy, Marine Corps and Coast Guard, 1862-1923
+url: http://www.gutenberg.org/ebooks/45900
